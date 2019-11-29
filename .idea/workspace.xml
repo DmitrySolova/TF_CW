@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d798aa15-24da-4ebb-ba8b-2fab51954938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtoursDemoaut/pages/BookAFlightPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/newtoursDemoaut/test/EventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/newtoursDemoaut/pages/BookAFlightPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/newtoursDemoaut/test/EventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtoursDemoaut/pages/FlightFinderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtoursDemoaut/pages/FlightFinderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtoursDemoaut/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtoursDemoaut/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtoursDemoaut/pages/SelectFlightPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtoursDemoaut/pages/SelectFlightPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/newtoursDemoaut/test/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/newtoursDemoaut/test/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/newtoursDemoaut/pages/FlightFinderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtoursDemoaut/pages/FlightFinderPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/newtoursDemoaut/test/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/newtoursDemoaut/test/Tests.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U24iNUCuSSK2BC4PASKWfV7wxr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.newtoursDemoaut" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testFlightFinderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="METHOD_NAME" value="testFlightFinderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="METHOD_NAME" value="testHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.testFlightFinderPage" />
+        <item itemvalue="JUnit.Tests.testHomePage" />
+        <item itemvalue="JUnit.Tests.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d798aa15-24da-4ebb-ba8b-2fab51954938" name="Default Changelist" comment="" />
+      <created>1574541482425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574541482425</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Kursach" type="b2602c69:ProjectViewProjectNode" />
+        <item name="Kursach" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
